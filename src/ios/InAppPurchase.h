@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import <StoreKit/StoreKit.h>
 
+#import <Cordova/NSData+Base64.h>
 #import <Cordova/CDVPlugin.h>
 
 #import "SKProduct+LocalizedPrice.h"
